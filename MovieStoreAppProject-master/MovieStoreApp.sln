@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieStoreApp", "MovieStoreApp\MovieStoreApp.csproj", "{8357BC09-3EDD-4DF1-A369-691D92471DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStoreTestProject", "MovieStoreTestProject\MovieStoreTestProject.csproj", "{1CAF9692-3383-418C-AE08-2A1082700938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8357BC09-3EDD-4DF1-A369-691D92471DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8357BC09-3EDD-4DF1-A369-691D92471DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8357BC09-3EDD-4DF1-A369-691D92471DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8357BC09-3EDD-4DF1-A369-691D92471DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAF9692-3383-418C-AE08-2A1082700938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAF9692-3383-418C-AE08-2A1082700938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAF9692-3383-418C-AE08-2A1082700938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAF9692-3383-418C-AE08-2A1082700938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744B9818-FCE6-4A9E-9D25-460F0A54F70B}
+	EndGlobalSection
+EndGlobal
